@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HBLevelView">
+        <attr name="startProgress" format="float|reference" />
+        <attr name="scurrProgress" format="float|reference" />
+        <attr name="endProgress" format="float|reference" />
+        <attr name="progressTextSize" format="reference|dimension" />
+        <attr name="backColor" format="color|reference" />
+        <attr name="foreColor" format="color|reference" />
+        <attr name="textColor" format="color|reference" />
+        <attr name="rectCorn" format="dimension|reference" />
+    </declare-styleable>
+
+</resources>
